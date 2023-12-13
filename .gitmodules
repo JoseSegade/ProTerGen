@@ -1,0 +1,12 @@
+[submodule "ext/DirectX-Headers"]
+	path = ext/DirectX-Headers
+	url = https://github.com/microsoft/DirectX-Headers.git
+[submodule "ext/DirectXMath"]
+	path = ext/DirectXMath
+	url = https://github.com/microsoft/DirectXMath.git
+[submodule "ext/DirectXTK12"]
+	path = ext/DirectXTK12
+	url = https://github.com/microsoft/DirectXTK12.git
+[submodule "ext/imgui"]
+	path = ext/imgui
+	url = https://github.com/ocornut/imgui.git
